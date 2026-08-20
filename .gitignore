@@ -5,3 +5,7 @@ lib/
 test_snapshots/
 target/
 Cargo.lock
+# JetBrains IDEs (RustRover, IntelliJ, etc.)
+.idea/
+config.bat
+node_modules
